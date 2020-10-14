@@ -2,7 +2,7 @@
 #Code:Yaman Efkar
 #Türk Siber Timi
 #İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Youtube : Furkan
 
 clear
 
